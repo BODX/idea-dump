@@ -1,4 +1,5 @@
 # Idea dump
+/* Write intro text explaining the ideas in case someone gets their hands on this file only */
 
 ## Positive Design Alliance 
 A collection of ideas, hacks and tools to use technology for our own benefit, understand its pitfalls and re-configure our minds.
