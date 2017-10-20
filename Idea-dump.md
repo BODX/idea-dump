@@ -8,7 +8,7 @@ We would love to see others jump on these ideas, breath live into them. Get in t
 ## Positive Design Alliance
 A collection of ideas, hacks and tools to use technology for our own benefit, understand its pitfalls and re-configure our minds.
 Share these materials with schools, employers, etc...
-We are actually setting this up as we speak. Our thoughts, hacks, manifest will be available at http://positivedesignalliance later this year.
+We are actually setting this up as we speak. Our thoughts, hacks, manifest will be available at http://positivedesignalliance.org later this year.
 
 ## Counters
 Simple list of counters. XX days since I... // XX days until I...
