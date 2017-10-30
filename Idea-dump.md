@@ -1,8 +1,28 @@
 # Idea dump
 
-So, here it goes. Our list of world unfuckafication hacks, ideas and some products even - for everyone to gaze at, laugh at, copy but not steal (no copyrights).
-Instead of falling for our own fallacy thinking _At some point I am gonna do this!_ it was truth time. How many of those can we realistically play with and then put into practice?
-We would love to see others jump on these ideas, breath live into them. Get in touch if you want us to help you with one of those, or you like to collaborate.
+Instead of pretending we are some magical creatures, let’s call them unicorns, we decided to step away from our egos and accept the realization that our ideas are not so special, that we cannot realize them all, and that the only way to effectively contribute something in an ever-changing world is to make our work common and available for everyone.
+
+It was truth time. We wanted overcome our own fallacy in thinking At some point I am gonna do this. Because how many of those can we realistically play with and then put into practice? We would love to see others jump on these ideas and breath life into them.
+
+So, here it goes. Our list of world unfuckafication hacks and some product ideas even - for everyone to gaze at, laugh at, copy but not steal (no copyrights).
+
++++
+
+## Say Dic!
+Bluetooth mic and button remote to hook into a dictation app (with auto-transcription preferably, say dic!). You can attach a clip to it, so when you rage around your mothers basement instigating your standup _career_ and fall off your drunken ass you have both hands.
+Say Dic! == Say Rec! to open it (through voice assistants).
+/* I realize a strongly worded product like (Say) Dic! violates positive design rules that it is not inclusive. Not everyone is cool with strong language so the app, maybe entire experience could be split into Dic == Rec. Rec being the nicer sister to the rambunctious older brother. */
+
+>> couple with payment experiment: The opposite of (or something like) split the bill. When we incur costs like API calls to Google or so you pay us half of what Google makes. It might be that the best transcription algorithm be hidden behind legacy, so we need to address the fact that the only way to offer the best accuracy and experience will cost money
+>> offer pay-what-you-can as well for the basic version (without API calls)
+
+Open query to anyone interested in collaborating on this one!
+
+To the afraid-of-open-source crowd out there: Don’t believe the first-mover fallacy. It’s bullshit. There is no first-mover anything in shitty software.
+
+So we are doing the opposite: We are actively sharing our blueprints, methods and thoughts so Chinese manufacturers can take them and turn them into all kinds of forks. Some will contribute to open-source projects because they see this as healthy competition, copying from one another to be better.
+Offer the software in Chinese, too, from the start.
+We need to include people in the community to buffer the lost-in-translation fatigue.
 
 
 ## Positive Design Alliance
